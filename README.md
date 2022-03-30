@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  🔭 I’m currently working on MadeiraMadeira
-- 🌱 I’m currently learning Terraform
+  🔭 I’m currently working
+- 🌱 I’m currently learning Azure
 - 📫 How to reach me: https://www.linkedin.com/in/marcelo-correia-842547148/
 
 #
